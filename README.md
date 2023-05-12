@@ -1,4 +1,6 @@
 # invitation_code_assistant
+
+## [English](https://github.com/zxkmm/invitation_code_assistant/blob/main/en.md) | 中文
 邀请码助手：自动复制列表中的文本到剪贴板/Automatically copy text in list
 
 # 使用
@@ -17,5 +19,3 @@ python invitation_code_assistant.py
 Python 3  
 Tkinter
 
-# i18n
-https://github.com/zxkmm/invitation_code_assistant/blob/main/en.md
