@@ -1,5 +1,5 @@
 # InvitationCodeAssistant
-## English | [中文](https://github.com/zxkmm/invitationi_code_assistant/blob/main/README.md)
+## English | [中文](https://github.com/zxkmm/invitation_code_assistant/blob/main/README.md)
 
 InvitationCodeAssistant: Automatically copy text in list to clipboard.
 
